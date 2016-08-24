@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">assignment1gesturebutton</string>
+    <string name="buttonText">Click !</string>
+    <string name="Bmtext">WELCOME HUMAN !</string>
+    <string name="onSingleTapConfirmedmText">onSingleTapConfirmed</string>
+    <string name="onDoubleTapmText">onDoubleTap</string>
+    <string name="onDoubleTapEventmText">onDoubleTapEvent</string>
+    <string name="onDownmText">onDown</string>
+    <string name="onShowPressmText">onShowPress</string>
+    <string name="onSingleTapmText">onSingleTapUp</string>
+    <string name="onScrollmText">onScroll</string>
+    <string name="onLongPressmText">onLongPress</string>
+    <string name="onFlingmText">onFling</string>
+</resources>
